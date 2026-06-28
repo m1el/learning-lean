@@ -2,3 +2,5 @@ import LearnLean.Chapters.C01_Introduction
 import LearnLean.Chapters.C02_Dependent_Type_Theory
 import LearnLean.Chapters.C03_Propositions_and_Proofs
 import LearnLean.Chapters.C04_Quantifiers_and_Equality
+import LearnLean.Chapters.C05_Tactics
+import LearnLean.Chapters.C06_Interacting_with_Lean
